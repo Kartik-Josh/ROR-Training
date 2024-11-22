@@ -1,0 +1,1 @@
+('a'..'z').to_a.reverse.each{|ele| puts ele}
